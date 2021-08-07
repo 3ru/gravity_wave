@@ -1,0 +1,6 @@
+*.json
+*.hdf5
+
+.idea
+
+__pycache__
